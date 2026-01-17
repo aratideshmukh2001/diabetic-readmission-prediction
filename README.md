@@ -34,7 +34,4 @@ Recall achieved: >70%
 Early identification of high-risk patients reduces readmission costs.
 
 ## Tools
-Python, Pandas, Scikit-learn, XGBoost
-
-## Author
-Your Name
+Python, Pandas, Scikit-learn, XGBoost,Random Forest
